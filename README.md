@@ -1,7 +1,7 @@
 ## Hi there, I'm Tore 👋
 
 # 💫 About Me:
-🔭 I’m currently learning React and Python<br>
+🔭 Web Developer<br>
 
 
 ## 🌐 Socials:
